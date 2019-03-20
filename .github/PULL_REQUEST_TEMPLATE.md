@@ -12,7 +12,7 @@ Fixes #XX
 - [ ] My pull request targets the `master` branch of the repository.
 - [ ] My commit messages follow [best practices](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53).
 - [ ] I added tests for the changes I made (if applicable).
-- [ ] I added or updated documentttion (if applicable).
+- [ ] I added or updated documentation (if applicable).
 - [ ] I tried running the project locally and verified that there are no visible errors.
 
 <!-- Make sure you read and understand the following attestation. -->
