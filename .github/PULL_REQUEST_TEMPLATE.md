@@ -1,13 +1,13 @@
 <!-- Please replace #XX below with an existing issue number. Remove the line entirely if none exist. -->
 Fixes #XX
 
-**Description**
+## Description
 <!-- Add your description below. -->
 
-**Other information**
+## Other information
 <!-- Add any other information below or delete the "Other Information" line entirely. -->
 
-**Checklist:**
+## Checklist
 - [ ] My pull request has a descriptive title (not a vague title like `Update
   index.md`).
 - [ ] My pull request targets the `master` branch of the repository.
@@ -20,7 +20,8 @@ Fixes #XX
 [best_practices]:https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
 
 <!-- Make sure you read and understand the following attestation. -->
-
+## Developer Certificate of Origin
+```
 Developer Certificate of Origin
 Version 1.1
 
@@ -58,3 +59,4 @@ By making a contribution to this project, I certify that:
     personal information I submit with it, including my sign-off) is
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.
+```
