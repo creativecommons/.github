@@ -1,6 +1,6 @@
 # .github
 
-Default templates and guidelines for Creative Commons GitHub repositories.
+Default templates and guidelines for Creative Commons repositories on GitHub.
 
 
 ## Overview
@@ -19,6 +19,10 @@ This repository contains defaults for:
 - Support guidelines
   - [`SUPPORT.md`](SUPPORT.md)
 
+For additional context and information, see [GitHub Repo Guidelines — Creative
+Commons on GitHub][guidelines].
+
 [bug_report]:.github/ISSUE_TEMPLATE/bug_report.md
 [feature_request]:.github/ISSUE_TEMPLATE/feature_request.md
 [pull_request]:.github/PULL_REQUEST_TEMPLATE.md
+[guidelines]:https://opensource.creativecommons.org/contributing-code/github-repo-guidelines/
