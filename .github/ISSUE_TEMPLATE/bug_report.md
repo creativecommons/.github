@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-label: bug
+labels: bug, not ready for work
 ---
 
 ## Describe the bug
