@@ -1,24 +1,24 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-
+labels: bug, not ready for work
 ---
 
 ## Describe the bug
-A clear and concise description of what the bug is.
+<!-- Clearly and concisely describe the bug -->
 
 ## To Reproduce
-Steps to reproduce the behavior:
+<!-- Provide detailed steps to reproduce the bug -->
 1. Go to '...'
 2. Click on '...'
 3. Scroll down to '...'
 4. See error
 
 ## Expected behavior
-A clear and concise description of what you expected to happen.
+<!-- Describe what you expected to happen. -->
 
 ## Screenshots
-If applicable, add screenshots to help explain your problem.
+<!-- If applicable, add screenshots to help explain your problem. -->
 
 ## Desktop (please complete the following information)
  - OS: (ex. iOS)
@@ -32,4 +32,4 @@ If applicable, add screenshots to help explain your problem.
  - Version (ex. 22)
 
 ## Additional context
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
