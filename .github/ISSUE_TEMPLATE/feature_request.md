@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-labels: enhancement, not ready for work
+labels: enhancement, awaiting triage
 ---
 
 ## Problem Description
