@@ -1,11 +1,7 @@
 ## Fixes
 <!-- If PR only partly solves an issue, replace 'Fixes' below with 'Partially addresses'. -->
-<!-- If there is no issue being resolved, delete the section entirely. -->
+<!-- If there is no issue being resolved, open one. -->
 Fixes #[issue number] by @[issue author]
-
-## Type
-<!-- Choose from one of these options -->
-This PR is a [feature|bug-fix|refactor].
 
 ## Description
 <!-- Give a clear and concise description of what the pull request does. -->
