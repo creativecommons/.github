@@ -8,19 +8,16 @@ Fixes #[issue number] by @[issue author]
 This PR is a [feature|bug-fix|refactor].
 
 ## Description
-<!-- A clear and concise description of what the pull request does. -->
+<!-- Give a clear and concise description of what the pull request does. -->
 
-## Technicalities
-<!-- Notable technical details about the implementation; or delete the section entirely. -->
+## Other information or technicalities
+<!-- Add any other information or technical details about the implementation; or delete the section entirely. -->
 
 ## Tests
-<!-- Steps for the reviewer to verify that this PR fixes the problem; or delete the section entirely. -->
+<!-- Give steps for the reviewer to verify that this PR fixes the problem; or delete the section entirely. -->
 
 ## Screenshots
 <!-- Add screenshots to show the problem and the solution; or delete the section entirely. -->
-
-## Other information
-<!-- Add any other information below; or delete the section entirely. -->
 
 ## Checklist
 <!-- Replace  the [ ] with [x] to check the boxes. --> 
@@ -37,7 +34,7 @@ This PR is a [feature|bug-fix|refactor].
 [best_practices]:https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
 
 ## Developer Certificate of Origin
-<!-- Make sure you read and understand the following attestation. -->
+<!-- You must read and understand the following attestation. -->
 
 <details>
 <summary>Developer Certificate of Origin</summary>
