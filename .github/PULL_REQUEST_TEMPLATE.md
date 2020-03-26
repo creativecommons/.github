@@ -1,17 +1,27 @@
-<!-- Please replace #XX below with an existing issue number. Remove the line entirely if none exist. -->
-Fixes #XX
+## Fixes
+<!-- If PR doesn't fully resolve the issue, replace 'Fixes' below with 'Related to'. -->
+<!-- If there is no issue being resolved, open one before creating this pull request. -->
+Fixes #[issue number] by @[issue author]
 
 ## Description
-<!-- Add your description below. -->
+<!-- Concisely describe what the pull request does. -->
 
-## Other information
-<!-- Add any other information below or delete the "Other Information" line entirely. -->
+## Technical details
+<!-- Add any other information or technical details about the implementation; or delete the section entirely. -->
+
+## Tests
+<!-- Give steps for the reviewer to verify that this PR fixes the problem; or delete the section entirely. -->
+
+## Screenshots
+<!-- Add screenshots to show the problem and the solution; or delete the section entirely. -->
 
 ## Checklist
+<!-- Replace  the [ ] with [x] to check the boxes. --> 
 - [ ] My pull request has a descriptive title (not a vague title like `Update
   index.md`).
 - [ ] My pull request targets the `master` branch of the repository.
 - [ ] My commit messages follow [best practices][best_practices].
+- [ ] My code follows the established code style of the repository.
 - [ ] I added tests for the changes I made (if applicable).
 - [ ] I added or updated documentation (if applicable).
 - [ ] I tried running the project locally and verified that there are no
@@ -19,8 +29,12 @@ Fixes #XX
 
 [best_practices]:https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
 
-<!-- Make sure you read and understand the following attestation. -->
 ## Developer Certificate of Origin
+<!-- You must read and understand the following attestation. -->
+
+<details>
+<summary>Developer Certificate of Origin</summary>
+
 ```
 Developer Certificate of Origin
 Version 1.1
@@ -60,3 +74,5 @@ By making a contribution to this project, I certify that:
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.
 ```
+
+</details>
