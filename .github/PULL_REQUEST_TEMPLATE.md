@@ -1,5 +1,5 @@
 ## Fixes
-<!-- If PR only partly solves an issue, replace 'Fixes' below with 'Partially addresses'. -->
+<!-- If PR doesn't fully resolve the issue, replace 'Fixes' below with 'Related to'. -->
 <!-- If there is no issue being resolved, open one before creating this pull request. -->
 Fixes #[issue number] by @[issue author]
 
