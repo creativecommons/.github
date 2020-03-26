@@ -4,9 +4,9 @@
 Fixes #[issue number] by @[issue author]
 
 ## Description
-<!-- Give a clear and concise description of what the pull request does. -->
+<!-- Concisely describe what the pull request does. -->
 
-## Other information or technicalities
+## Technical details
 <!-- Add any other information or technical details about the implementation; or delete the section entirely. -->
 
 ## Tests
