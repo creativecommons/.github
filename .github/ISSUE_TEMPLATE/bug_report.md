@@ -4,32 +4,33 @@ about: Create a report to help us improve
 labels: bug, awaiting triage
 ---
 
-## Describe the bug
-<!-- Clearly and concisely describe the bug -->
+## Description
+<!-- Concisely describe the bug. -->
 
-## To Reproduce
+## Reproduction
 <!-- Provide detailed steps to reproduce the bug -->
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
+1. <!-- Step 1 ... -->
+2. <!-- Step 2 ... -->
+3. <!-- Step 3 ... -->
+4. See error.
 
-## Expected behavior
-<!-- Describe what you expected to happen. -->
+## Expectation
+<!-- Concisely describe what you expected to happen. -->
 
 ## Screenshots
-<!-- If applicable, add screenshots to help explain your problem. -->
+<!-- Add screenshots to show the problem; or delete the section entirely. -->
 
-## Desktop (please complete the following information)
- - OS: (ex. iOS)
- - Browser (ex. chrome, safari)
- - Version (ex. 22)
-
-## Smartphone (please complete the following information)
- - Device: (ex. iPhone6)
- - OS: (ex. iOS8.1)
- - Browser (ex. stock browser, safari)
- - Version (ex. 22)
+## Environment
+<!-- If the problem is environment specific, please complete this. -->
+ - Device: (_eg._ iPhone Xs; laptop)
+ - OS: (_eg._ iOS 13.5; Fedora 32)
+ - Browser: (_eg._ Safari; Firefox)
+ - Version: (_eg._ 13; 73)
+ - Other info: (_eg._ display resolution, ease-of-access settings)
 
 ## Additional context
-<!-- Add any other context about the problem here. -->
+<!-- Add any other context about the problem here; or delete the section entirely. -->
+
+## Resolution
+<!-- Replace the [ ] with [x] to check the box. -->
+- [ ] I would be interested in resolving this bug.

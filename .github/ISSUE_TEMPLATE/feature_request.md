@@ -4,14 +4,18 @@ about: Suggest an idea for this project
 labels: enhancement, awaiting triage
 ---
 
-## Problem Description
-<!-- Please provide a clear and concise description of what the problem or issue the proposed feature will solve (Ex. I'm always frustrated when ...) -->
+## Problem
+<!-- Describe a problem solved by this feature; or delete the section entirely. -->
 
-## Solution Description
-<!-- Describe what you want to happen -->
+## Description
+<!-- Describe the feature and how it solves the problem. -->
 
 ## Alternatives
-<!-- Describe any alternative solutions or features you have considered -->
+<!-- Describe any alternative solutions or features you have considered. How is this feature better? -->
 
 ## Additional context
-<!-- Add any other context or screenshots about the feature request here. -->
+<!-- Add any other context about the feature here; or delete the section entirely. -->
+
+## Implementation
+<!-- Replace the [ ] with [x] to check the box. -->
+- [ ] I would be interested in implementing this feature.
