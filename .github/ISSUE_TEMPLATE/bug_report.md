@@ -21,7 +21,7 @@ labels: bug, awaiting triage
 <!-- Add screenshots to show the problem; or delete the section entirely. -->
 
 ## Environment
-<!-- Please complete this, unless you are certain the problem is not environment specific -->
+<!-- Please complete this, unless you are certain the problem is not environment specific. -->
  - Device: (_eg._ iPhone Xs; laptop)
  - OS: (_eg._ iOS 13.5; Fedora 32)
  - Browser: (_eg._ Safari; Firefox)
