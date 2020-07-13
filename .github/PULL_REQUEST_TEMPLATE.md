@@ -19,7 +19,7 @@ Fixes #[issue number] by @[issue author]
 <!-- Replace  the [ ] with [x] to check the boxes. --> 
 - [ ] My pull request has a descriptive title (not a vague title like `Update
   index.md`).
-- [ ] My pull request targets the `master` branch of the repository.
+- [ ] My pull request targets the *default* branch of the repository (`main` or `master`).
 - [ ] My commit messages follow [best practices][best_practices].
 - [ ] My code follows the established code style of the repository.
 - [ ] I added tests for the changes I made (if applicable).
