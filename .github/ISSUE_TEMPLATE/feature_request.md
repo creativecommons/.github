@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-labels: enhancement, awaiting triage
+labels: ✨ goal: improvement, 🚦 status: awaiting triage
 ---
 
 ## Problem
