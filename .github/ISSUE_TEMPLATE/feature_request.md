@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest a new feature or improvements to an existing one
 labels: "✨ goal: improvement, 🚦 status: awaiting triage, 💻 aspect: code, 🟩 priority: low"
 title: "[Bug] <Replace this with actual title>"
 ---
