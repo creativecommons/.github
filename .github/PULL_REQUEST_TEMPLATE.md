@@ -32,6 +32,7 @@ Fixes #[issue number] by @[issue author]
 ## Developer Certificate of Origin
 <!-- You must read and understand the following attestation. -->
 
+For the purposes of this DCO, "license" is equivalent to "license or public domain dedication," and "open source license" is equivalent to "open content license or public domain dedication."
 <details>
 <summary>Developer Certificate of Origin</summary>
 
