@@ -31,9 +31,11 @@ Commons on GitHub][guidelines].
 ## Copying
 
 [![CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-button][cc-zero-png]][cc-zero] [`COPYING`](COPYING): All the content within
+button][cc-zero-png]][cc-zero]
+
+[`COPYING`](COPYING): All the content within
 this repository is dedicated to the public domain under the [CC0 1.0 Universal
 (CC0 1.0) Public Domain Dedication][cc-zero].
 
-[cc-zero-png]: https://licensebuttons.net/l/zero/1.0/88x31.png#floatright "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication button"
+[cc-zero-png]: https://licensebuttons.net/l/zero/1.0/88x31.png "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication button"
 [cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/
