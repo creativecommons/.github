@@ -18,7 +18,7 @@ Fixes #[issue number] by @[issue author]
 ## Checklist
 <!-- DON'T remove this section or any of the lines. -->
 <!-- Leave incomplete or inapplicable lines unchecked. -->
-<!-- Replace the [ ] with [x] to check the boxes (there is no space between x and square brackets. -->
+<!-- Replace the [ ] with [x] to check the boxes (there is no space between x and square brackets). -->
 - [ ] My pull request has a descriptive title (not a vague title like `Update
   index.md`).
 - [ ] My pull request targets the *default* branch of the repository (`main` or `master`).
