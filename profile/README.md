@@ -17,7 +17,7 @@ Please see our [Open Source][ccos] website. It includes:
 [ccos-work]: https://opensource.creativecommons.org/programs/
 
 
-## Support
+## Help and support
 
 You can open an [issue][support] or see [Contact | Creative Commons][contact].
 
@@ -33,3 +33,13 @@ You can open an [issue][support] or see [Contact | Creative Commons][contact].
 - [Global Network](https://network.creativecommons.org/)
 - [Global Summit](https://summit.creativecommons.org/)
 - [Search](https://search.creativecommons.org/)
+
+
+## Support CC
+
+Our work relies on you! Help us keep the internet free and open:
+- [Donate][donate]
+- [Sponsor @creativecommons on GitHub Sponsors][sponsor]
+
+[donate]: https://creativecommons.org/donate
+[sponsor]: https://github.com/sponsors/creativecommons
