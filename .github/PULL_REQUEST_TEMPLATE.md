@@ -1,7 +1,8 @@
 ## Fixes
-<!-- If PR doesn't fully resolve the issue, replace 'Fixes' below with 'Related to'. -->
+<!-- If PR doesn't fully resolve the issue, replace 'Fixes' below with 'Related to'.  -->
 <!-- If there is no issue being resolved, please open one before creating this pull request. -->
-Fixes #[issue number] by @[issue author]
+<!-- Replace [issue number] with the issue number (don't leave the square brackets)--likewise for [issue author]. -->
+- Fixes #[issue number] by @[issue author]
 
 ## Description
 <!-- Concisely describe what the pull request does. -->
@@ -10,10 +11,10 @@ Fixes #[issue number] by @[issue author]
 <!-- Add any other information or technical details about the implementation; or delete this section entirely. -->
 
 ## Tests
-<!-- Give steps for the reviewer to verify that this PR fixes the problem; or delete this section entirely. -->
+<!-- Give steps for the reviewer to verify that this PR fixes the problem; or comment out this section entirely. -->
 
 ## Screenshots
-<!-- Add screenshots to show the problem and the solution; or delete this section entirely. -->
+<!-- Add screenshots to show the problem and the solution; or comment out this section entirely. -->
 
 ## Checklist
 <!-- DON'T remove this section or any of the lines. -->
@@ -32,7 +33,9 @@ Fixes #[issue number] by @[issue author]
 [best_practices]:https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
 
 ## Developer Certificate of Origin
-<!-- You must read and understand the following attestation. -->
+<!-- YOU MUST READ AND UNDERSTAND THE FOLLOWING ATTESTATION. -->
+<!-- -->
+<!-- Be aware that copying and pasting from discussion sites or generative AI isn't allowed under this DCO. -->
 
 For the purposes of this DCO, "license" is equivalent to "license or public domain dedication," and "open source license" is equivalent to "open content license or public domain dedication."
 <details>
