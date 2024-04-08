@@ -1,6 +1,7 @@
 ## Fixes
 <!-- If PR doesn't fully resolve the issue, replace 'Fixes' below with 'Related to'.  -->
 <!-- If there is no issue being resolved, please open one before creating this pull request. -->
+<!-- Replace [issue number] with the issue number (don't leave the square brackets)--likewise for [issue author]. -->
 - Fixes #[issue number] by @[issue author]
 
 ## Description
