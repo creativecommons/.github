@@ -18,6 +18,20 @@ The `README` in the root of the repository should contain or link to project
 documentation. If you cannot find the documentation you're looking for, please
 file a GitHub issue with details of what you'd like to see documented.
 
+## Contribution Workflow
+
+Once you have identified an issue to work on:
+
+* Fork the repository to your github account
+* Clone the project to your local machine 
+* Navigate to the cloned project directory
+* Add the original repository as an upstream remote
+* Verify the remote repository 
+* Create a new branch with a descriptive name
+* Make changes 
+* Commit changes
+* Push changes to your fork
+* Open a Pull Request (PR) and follow the PR template
 
 ## How to Contribute
 
