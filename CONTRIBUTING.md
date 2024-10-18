@@ -22,16 +22,11 @@ file a GitHub issue with details of what you'd like to see documented.
 
 Once you have identified an issue to work on:
 
-* Fork the repository to your github account
-* Clone the project to your local machine 
-* Navigate to the cloned project directory
-* Add the original repository as an upstream remote
-* Verify the remote repository 
-* Create a new branch with a descriptive name
-* Make changes 
-* Commit changes
-* Push changes to your fork
-* Open a Pull Request (PR) and follow the PR template
+* [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the Repository. 
+* Work in a [new branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
+* Open a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and follow the PR template.
+
+For additional guidelines, refer to the [Foundational technologies — Creative Commons Open Source](https://opensource.creativecommons.org/contributing-code/foundational-tech/).
 
 ## How to Contribute
 
