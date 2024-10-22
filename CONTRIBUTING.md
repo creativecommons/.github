@@ -18,6 +18,15 @@ The `README` in the root of the repository should contain or link to project
 documentation. If you cannot find the documentation you're looking for, please
 file a GitHub issue with details of what you'd like to see documented.
 
+## Contribution Workflow
+
+Once you have identified an issue to work on:
+
+* [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the Repository. 
+* Work in a [new branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
+* Open a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and follow the PR template.
+
+For additional guidelines, refer to the [Foundational technologies — Creative Commons Open Source](https://opensource.creativecommons.org/contributing-code/foundational-tech/).
 
 ## How to Contribute
 
