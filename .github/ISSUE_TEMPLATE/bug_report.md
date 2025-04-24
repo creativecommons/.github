@@ -1,15 +1,16 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-labels: "🛠 goal: fix, 🚦 status: awaiting triage, 💻 aspect: code, 🟧 priority: high"
-title: "[Bug] <Replace this with actual title>"
+labels: "🛠 goal: fix, 🚦 status: awaiting triage, 💻 aspect: code, 🟨 priority: medium"
+title: "Replace this with actual title"
+type: bug
 ---
 
 ## Description
 <!-- Concisely describe the bug. -->
 
 ## Reproduction
-<!-- Provide detailed steps to reproduce the bug -->
+<!-- Provide detailed steps to reproduce the bug. -->
 1. <!-- Step 1 ... -->
 2. <!-- Step 2 ... -->
 3. <!-- Step 3 ... -->
