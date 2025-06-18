@@ -25,14 +25,26 @@ You can open an [issue][support] or see [Contact | Creative Commons][contact].
 [contact]: https://creativecommons.org/about/contact/
 
 
-## Primary websites
+## Primary website
 
 - **[CreativeCommons.org](https://creativecommons.org/)**
-- [Certificate](https://certificates.creativecommons.org/)
-- [Open Source][ccos]
-- [Global Network](https://network.creativecommons.org/)
-- [Global Summit](https://summit.creativecommons.org/)
-- [Search](https://search.creativecommons.org/)
+
+
+## Other resources
+
+- Develop expertise in the CC licenses by taking the [CC Certificate][cc-cert]
+  course
+- Read what we’ve been up to lately on the [CC blog][cc-blog]
+- Learn more about CC’s current priorities and [access
+  resources][access-resources]
+- Check out CC’s [strategic plan][strategic]
+- Find open content with the [CC Search Portal][search-portal]
+
+[cc-cert]: https://creativecommons.org/about/cc-certificate-program/
+[cc-blog]: https://creativecommons.org/blog/
+[access-resources]: https://creativecommons.org/about/
+[strategic]: https://creativecommons.org/mission/
+[search-portal]: https://search.creativecommons.org/
 
 
 ## Support CC
