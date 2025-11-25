@@ -27,7 +27,7 @@
 - [ ] My pull request targets the *default* branch of the repository (`main` or `master`).
 - [ ] My commit messages follow [best practices][best_practices].
 - [ ] My code follows the established code style of the repository.
-- [ ] I added or updated unit tests anb/or test scripts for the changes I made (if applicable).
+- [ ] I added or updated unit tests and/or test scripts for the changes I made (if applicable).
 - [ ] I added or updated documentation (if applicable).
 - [ ] I tried running the project locally and verified that there are no
   visible errors.
