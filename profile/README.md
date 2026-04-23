@@ -19,8 +19,14 @@ Please see our [Open Source][ccos] website. It includes:
 
 ## Help and support
 
-You can open an [issue][support] or see [Contact | Creative Commons][contact].
+Many questions are answered in our [FAQ][faq] and you can find out more about
+our [Global Network][network].
 
+For help with Creative Commons (CC) digital resources, you can open an
+[issue][support]. Otherwise, please see [Contact | Creative Commons][contact].
+
+[faq]: https://creativecommons.org/faq/
+[network]: https://network.creativecommons.org/
 [support]: https://github.com/creativecommons/creativecommons.org/issues
 [contact]: https://creativecommons.org/about/contact/
 
